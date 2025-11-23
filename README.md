@@ -132,6 +132,3 @@ Longest rides reached 30 km, with diverse payment methods (voucher, PayPal, cash
 ├── queries.sql          # All SQL queries used
 ├── README.md            # Project documentation
 ```
-
-
-Let me know if you'd like help formatting this into your `README.md` file or want to add badges, links, or visuals.
