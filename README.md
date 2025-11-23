@@ -1,5 +1,4 @@
 # HNG-Tasks
-My HNG internship tasks
 ---
 #  Ride Analytics with PostgreSQL
 
